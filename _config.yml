@@ -27,9 +27,9 @@ catering_manager:
   email: dmosely@levyrestaurants.com 
   phone: 5124044254
 it_coordinator:
-  name: Joel Baumwart
-  email: joel.baumwart@austintexas.gov
-  phone: 5124044036
+  name: Jason Perkins
+  email: jason.perkins@austintexas.gov
+  phone: 5124044089
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v0.3.4
 searchable: true
